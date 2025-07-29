@@ -1,0 +1,16 @@
+{
+  "name": "rag-agent",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "langchain": "^0.0.189",
+    "openai": "^4.0.0",
+    "pdf-parse": "^1.1.1",
+    "react": "^18.2.0",
+    "next": "^13.4.0"
+  }
+}
